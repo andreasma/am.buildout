@@ -39,7 +39,6 @@ setup(
         # 'https://collective.addons.readthedocs.io/en/latest/',
     },
     packages=find_packages('src', exclude=['ez_setup']),
-    namespace_packages=['am'],
     package_dir={'': 'src'},
     include_package_data=True,
     zip_safe=False,
