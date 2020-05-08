@@ -5,6 +5,12 @@ from setuptools import find_packages
 from setuptools import setup
 
 
+long_description = '\n\n'.join([
+    open('README.md').read(),
+    open('CONTRIBUTORS.rst').read(),
+    open('CHANGES.rst').read(),
+])
+
 setup(
     name='am.buildout',
     version='0.1.dev0',
