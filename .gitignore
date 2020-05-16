@@ -1,0 +1,10 @@
+bin/*
+eggs/*
+develop-eggs/*
+include/*
+lib/*
+lib64/*
+lib64
+parts/*
+var/*
+.directory
