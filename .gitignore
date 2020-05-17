@@ -2,9 +2,12 @@ bin/*
 eggs/*
 develop-eggs/*
 include/*
+extends-cache/*
 lib/*
 lib64/*
 lib64
 parts/*
 var/*
 .directory
+.installed.cfg
+.mr.developer.cfg
